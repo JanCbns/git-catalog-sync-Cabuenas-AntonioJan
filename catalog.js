@@ -8,6 +8,6 @@ function calculateLateFee(daysLate, ratePerDay) {
   }
 
   const fee = Math.round(daysLate * ratePerDay);
-  return Math.min(fee, 20);
+  return Math.min(Math.max(fee, 1), 20);
 }
 module.exports = { isValidLoan, calculateLateFee };
