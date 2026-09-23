@@ -36,22 +36,22 @@ Task 6 — Rebase: Git replayed the minimum-fee commit on top of the updated rem
 A better process would be to use a separate branch for each change instead of having multiple clones push directly to the same shared branch. The branches could then be merged through pull requests.
 
 Task 1:
-<img width="1919" height="1079" alt="Task 1" src="https://github.com/user-attachments/assets/12440da9-7550-4a74-abb0-b38155e58789" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-1.png?raw=true
 
 Task 2:
-<img width="1919" height="1079" alt="Task 2" src="https://github.com/user-attachments/assets/96e023ae-7398-44b9-a270-ce397abb5c0c" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-2.png?raw=true
 
 Task 3:
-<img width="1919" height="1079" alt="Task 3" src="https://github.com/user-attachments/assets/469f5b36-892d-4bd4-b9d5-99528a10167c" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-3.png?raw=true
 
 Task 4:
-<img width="1919" height="1079" alt="Task 4" src="https://github.com/user-attachments/assets/a21c31cd-91c4-4759-a119-b0931415ece9" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-4.png?raw=true
 
 Task 5:
-<img width="1919" height="1079" alt="Task 5" src="https://github.com/user-attachments/assets/5fb075e9-c254-4cd2-9fa8-4ff8187326a3" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-5.png?raw=true
 
 Task 6:
-<img width="1919" height="1079" alt="task 6" src="https://github.com/user-attachments/assets/1cee1f72-7f56-4398-98a6-285c1aa2015a" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-6.png?raw=true
 
 Task 7:
-<img width="1919" height="1079" alt="Task 7" src="https://github.com/user-attachments/assets/592c30de-4d77-4ccd-8a37-79e15d77f240" />
+https://github.com/JanCbns/git-catalog-sync-Cabuenas-AntonioJan/blob/main/screenshots/task-7.png?raw=true
